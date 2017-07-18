@@ -2,4 +2,3 @@ Full-name: Trinh cong trinh
 Birthday: 20/08/1991
 Jobs: Front-end develope
 Status: Signal
-I'm a handsome buy.kakaka
